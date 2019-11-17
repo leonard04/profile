@@ -1,0 +1,5 @@
+[13-Nov-2019 15:41:36 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/igaq5874/public_html/sendemail.php on line 67
+[13-Nov-2019 15:47:28 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/igaq5874/public_html/sendemail.php on line 60
+[13-Nov-2019 15:49:52 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/igaq5874/public_html/sendemail.php on line 58
+[13-Nov-2019 15:55:08 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/igaq5874/public_html/sendemail.php on line 58
+[13-Nov-2019 15:55:23 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/igaq5874/public_html/sendemail.php on line 58
